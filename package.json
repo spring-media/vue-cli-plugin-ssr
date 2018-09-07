@@ -1,6 +1,6 @@
 {
-  "name": "@akryum/vue-cli-plugin-ssr",
-  "version": "0.2.3",
+  "name": "vue-cli-plugin-ssr",
+  "version": "0.1.0",
   "description": "Turn your app into an isomorphic SSR app!",
   "author": "Guillaume Chau",
   "license": "MIT",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akryum/vue-cli-plugin-ssr.git"
+    "url": "git+https://github.com/spring-media/vue-cli-plugin-ssr.git"
   },
   "publishConfig": {
     "access": "public"
@@ -21,9 +21,9 @@
     "vue-cli",
     "ssr"
   ],
-  "homepage": "https://github.com/Akryum/vue-cli-plugin-ssr",
+  "homepage": "https://github.com/spring-media/vue-cli-plugin-ssr",
   "bugs": {
-    "url": "https://github.com/Akryum/vue-cli-plugin-ssr/issues"
+    "url": "https://github.com/spring-media/vue-cli-plugin-ssr/issues"
   },
   "main": "index.js",
   "dependencies": {
